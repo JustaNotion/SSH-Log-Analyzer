@@ -1,3 +1,4 @@
+Jan 1 07:37:12 web-01 sshd[2811]: Accepted password for jdoe from 192.0.2.10 port 51002 ssh2
 Jan 1 07:38:00 web-01 sshd[3471]: Failed password for root from 203.0.113.45 port 53965 ssh2
 Jan 1 07:38:01 web-01 sshd[3471]: Failed password for invalid user postgres from 203.0.113.45 port 63255 ssh2
 Jan 1 07:38:02 web-01 sshd[3471]: Failed password for invalid user ftpuser from 203.0.113.45 port 35632 ssh2
@@ -23,3 +24,4 @@ Jan 1 07:39:14 web-01 sshd[5919]: Failed password for invalid user guest from 20
 Jan 1 07:39:18 web-01 sshd[5919]: Failed password for invalid user test from 203.0.113.102 port 59897 ssh2
 Jan 1 07:39:19 web-01 sshd[5919]: Failed password for invalid user ubnt from 203.0.113.102 port 47690 ssh2
 Jan 1 07:39:19 web-01 sshd[5919]: Connection closed by authenticating user root 203.0.113.102 port 34259 [preauth]
+Jan 1 07:40:03 web-01 sshd[8102]: Accepted publickey for svc-deploy from 192.0.2.10 port 51447 ssh2
