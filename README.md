@@ -25,7 +25,7 @@ Any source IP with 5 or more failed password attempts prints a [WARNING] line to
 The results are displayed clearly and directly showing source IP addresses which have 5 failed attempts or more.
 Both the attacking IP in addition to the specific number of failed attempts are displayed with a [WARNING] message.
 198.51.100.7 appears in the sample log with 3 failed attempts and is correctly excluded, along with successful logins and [preauth] lines.
-<img width="726" height="52" alt="image" src="https://github.com/user-attachments/assets/30c54e80-75be-48cd-8770-61659f2460f0" />
+![Sample output](terminal_output.png)
 
 ## Known limitations
 - Input filename is hardcoded as sample_auth.log; no command-line argument
